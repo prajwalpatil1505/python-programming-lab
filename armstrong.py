@@ -9,4 +9,4 @@ print(s)
 if s==z:
   print("Armstrong number")
 else:
-print("Not Armstrong number")
+  print("Not Armstrong number")
